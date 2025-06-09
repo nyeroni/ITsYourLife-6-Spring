@@ -1,0 +1,3 @@
+X INFO  org.scoula.RestaurantTest(getChef:25) - Restaurant(chef=org.scoula.Chef@ae7950d)
+N INFO  org.scoula.RestaurantTest(getChef:26) - ------------------------------
+G INFO  org.scoula.RestaurantTest(getChef:27) - org.scoula.Chef@ae7950d

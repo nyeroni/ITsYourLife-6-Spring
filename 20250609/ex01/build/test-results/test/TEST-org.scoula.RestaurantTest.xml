@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.scoula.RestaurantTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-06-09T07:15:17" hostname="yelong-ui-MacBookAir.local" time="0.019">
+  <properties/>
+  <testcase name="getChef()" classname="org.scoula.RestaurantTest" time="0.019"/>
+  <system-out><![CDATA[ INFO  org.scoula.RestaurantTest(getChef:25) - Restaurant(chef=org.scoula.Chef@ae7950d)
+ INFO  org.scoula.RestaurantTest(getChef:26) - ------------------------------
+ INFO  org.scoula.RestaurantTest(getChef:27) - org.scoula.Chef@ae7950d
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
